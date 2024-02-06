@@ -1,2 +1,2 @@
 import random as random
-print (random.randrange(1, 120))
+print (random.randrange(1, 122))
